@@ -1,2 +1,2 @@
 # Rabbit
-Simple RDBMS
+🐰Rabbit is a Disk Transactional KV Storage Engine
